@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class Test {
+public class TestCase {
 
     int times = 10;
     int size = 80000;
